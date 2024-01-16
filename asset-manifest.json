@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/10_portfolio-project-miro/static/css/main.aa9305b2.css",
+    "main.js": "/10_portfolio-project-miro/static/js/main.31b5cb69.js",
+    "static/media/image1.jpg": "/10_portfolio-project-miro/static/media/image1.77af83a16590f8cbf909.jpg",
+    "static/media/image2.jpg": "/10_portfolio-project-miro/static/media/image2.8ffc5d7a17997e84aefe.jpg",
+    "static/media/image3.jpg": "/10_portfolio-project-miro/static/media/image3.e05365a05871cf5447af.jpg",
+    "static/media/image4.jpg": "/10_portfolio-project-miro/static/media/image4.6d65798fd829c3c05f20.jpg",
+    "static/media/image5.jpg": "/10_portfolio-project-miro/static/media/image5.706f0ad4cc997ac115c3.jpg",
+    "index.html": "/10_portfolio-project-miro/index.html",
+    "main.aa9305b2.css.map": "/10_portfolio-project-miro/static/css/main.aa9305b2.css.map",
+    "main.31b5cb69.js.map": "/10_portfolio-project-miro/static/js/main.31b5cb69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9305b2.css",
+    "static/js/main.31b5cb69.js"
+  ]
+}
